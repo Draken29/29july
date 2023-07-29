@@ -1,0 +1,35 @@
+article{
+    background-color: #c4c0c0;
+    width: 40%;
+    border: 2px solid black;
+    text-align: center;
+ text-shadow: 2px 2px orchid;
+ box-shadow: 20px 40px red;
+}
+article img{
+    width: 100%;
+}
+article h2{
+    /*text-shadow: 2px 2px red;*/
+} 
+.tr{
+    box-shadow: 20px -30px salmon;
+}
+.r{
+    box-shadow: -20px 30px firebrick;
+}
+.p{
+    box-shadow: -20px -30px darkcyan;
+}
+header{
+    width: 50%;
+    height: 350px;
+    background-color: blue;
+transform: translateX(30%);
+/*transform: translateY(10%);*/
+transform: translate(50%, 45%);
+}
+header img{
+    width: 40%;
+    transform: translateX(75%);
+}
